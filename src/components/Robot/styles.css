@@ -1,0 +1,12 @@
+#redLight,
+#yellowLight,
+#redLight {
+    transition: all ease-in-out 0.2s;
+}
+
+
+@keyframes blink {
+    from {opacity: 0.4}
+    to {opacity: 1}
+}
+  

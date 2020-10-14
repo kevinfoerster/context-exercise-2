@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="25px" viewBox="0 0 53 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Robot Copy 5</title>
+    <defs>
+        <ellipse id="path-1" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+        <filter x="-23.5%" y="-23.8%" width="147.0%" height="147.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="2" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+        <filter x="-23.5%" y="-23.8%" width="147.0%" height="147.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="2" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-5" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+        <filter x="-23.5%" y="-23.8%" width="147.0%" height="147.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="2" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="-157" y="-197" width="624" height="624"></rect>
+        <g id="Group" transform="translate(14.000000, -14.000000)">
+            <g id="Group" transform="translate(12.500000, 26.500000) rotate(-270.000000) translate(-12.500000, -26.500000) ">
+                <path d="M12.5,0 C5.59644063,0 0,5.53674526 0,12.3666667 L0,40.6333333 C0,47.4632547 5.59644063,53 12.5,53 C19.4035594,53 25,47.4632547 25,40.6333333 L25,12.3666667 C25,5.53674526 19.4035594,0 12.5,0 Z M12.5,1.00952381 C18.8400035,1.00952381 23.9795918,6.09428987 23.9795918,12.3666667 L23.9795918,40.6333333 C23.9795918,46.9057101 18.8400035,51.9904762 12.5,51.9904762 C6.15999649,51.9904762 1.02040816,46.9057101 1.02040816,40.6333333 L1.02040816,12.3666667 C1.02040816,6.09428987 6.15999649,1.00952381 12.5,1.00952381 Z" id="Rectangle" fill="#979797" fill-rule="nonzero"></path>
+                <path d="M12.5,1.00952381 C18.8400035,1.00952381 23.9795918,6.09428987 23.9795918,12.3666667 L23.9795918,40.6333333 C23.9795918,46.9057101 18.8400035,51.9904762 12.5,51.9904762 C6.15999649,51.9904762 1.02040816,46.9057101 1.02040816,40.6333333 L1.02040816,12.3666667 C1.02040816,6.09428987 6.15999649,1.00952381 12.5,1.00952381 Z" id="Path-Copy" fill="#000000" fill-rule="nonzero"></path>
+                <g transform="translate(6.122449, 34.828571)" id="green">
+                    <g id="green-light" fill="#7ED321">
+                        <ellipse id="color" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+                    </g>
+                    <g id="Group" fill="black" fill-opacity="1">
+                        <g id="light">
+                            <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(6.122449, 20.442857)" id="yellow">
+                    <g id="yellow-light" fill="#F5A623">
+                        <ellipse id="color" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+                    </g>
+                    <g id="Group" fill="black" fill-opacity="1">
+                        <g id="light">
+                            <use filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(6.122449, 6.057143)" id="red">
+                    <g id="red-light" fill="#D0021B">
+                        <ellipse id="color" cx="6.37755102" cy="6.30952381" rx="6.37755102" ry="6.30952381"></ellipse>
+                    </g>
+                    <g id="Group" fill="black" fill-opacity="1">
+                        <g id="light">
+                            <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                    <g id="light-copy"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
